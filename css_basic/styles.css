@@ -1,0 +1,23 @@
+.header {
+  flex-direction: column;
+}
+
+.main {
+  flex: auto;
+}
+
+.body {
+  display: flex;
+}
+
+.article {
+  flex-direction: row;
+}
+
+.aside {
+  flex-direction: row;
+}
+
+.footer {
+  display: flex;
+}
